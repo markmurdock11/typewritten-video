@@ -1,4 +1,4 @@
 interface:
-  display_name: "Typewritten Video"
+  display_name: "wordcel.mp4"
   short_description: "Turn essays into expressive live-editor videos"
-  default_prompt: "Use $typewritten-video to turn this essay into an editor-led social video with synchronized keyboard sound."
+  default_prompt: "Use $wordcel-mp4 to turn this essay into an editor-led social video with synchronized keyboard sound."
