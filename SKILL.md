@@ -1,9 +1,9 @@
 ---
-name: typewritten-video
+name: wordcel-mp4
 description: Create or refine essay videos that feel like a live word-editor session, with expressive text edits, browser cutaways, and synchronized keyboard sound. Use for social launches of writing and the Kurate video style, rather than generic talking-head or montage-only edits.
 ---
 
-# Typewritten Video
+# wordcel.mp4
 
 Make the viewer feel someone thinking on the page: typing, reconsidering, selecting, pasting, and discovering references. The writing is the main performance. Every edit should help a thought land.
 
