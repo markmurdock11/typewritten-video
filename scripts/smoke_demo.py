@@ -86,7 +86,7 @@ def draw_frame(data, width, height, frame):
     top = round(104*r)
     draw.rectangle((0, 0, width, top), fill='#f3f4f6')
     ui = getfont({'fontFamily': 'Arial', 'fontSize': {'magnitude': 12}}, scale)
-    draw.text((25*r, 31*r), 'DRAFT  /  Typewritten video', font=ui, fill='#5f6066')
+    draw.text((25*r, 31*r), 'DRAFT  /  wordcel.mp4', font=ui, fill='#5f6066')
     draw.line((0, top, width, top), fill='#dddde2', width=1)
     layer, positions = render_paragraph(chars, width-64*r, BASE, selection=selection, scale=scale)
     x, y = round(32*r), round(top+44*r)
