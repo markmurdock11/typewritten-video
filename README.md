@@ -2,7 +2,7 @@
 
 A Codex skill for turning essays into videos that feel like a live word-editor session: typing, selecting, revising, formatting, and exploring references, with synchronized keyboard sound.
 
-Built from the Kurate essay-video workflow. The latest guidance emphasizes brisk pacing, source visuals you can read on a phone, one continuous document, and endings that preserve the argument and recommendation.
+Built from the Kurate essay-video workflow. The guidance emphasizes brisk pacing, one continuous document, and source excerpts that preserve both the words and their context. Readable transcripts, small sender headshots, and persistent timelines help viewers follow people and ideas without crowding the screen. Endings preserve the argument and recommendation.
 
 The package includes editorial guidance, reusable Python helpers, and a short original demo. Each film still needs editorial and visual direction.
 

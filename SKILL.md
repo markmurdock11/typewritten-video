@@ -7,7 +7,7 @@ description: Create or refine essay videos that feel like a live word-editor ses
 
 Make the viewer feel someone thinking on the page: typing, reconsidering, selecting, pasting, and discovering references. The writing is the main performance. Every edit should help a thought land.
 
-For the Kurate series, preserve one accumulating document across editorial beats. Append new paragraphs below earlier writing and let the camera follow the active passage. Earlier paragraphs remain in the document and stay visible when the viewport permits. A new topic or source panel changes the focus, not the document's contents.
+For the Kurate series, preserve one accumulating document across editorial beats. Append new paragraphs below earlier writing and let the camera follow the active passage. Earlier paragraphs remain in the document and stay visible when the viewport permits. A new topic or source panel changes the focus, not the document's contents. A full-screen source view may temporarily cover the essay; return to the same accumulated document afterward.
 
 ## Start from the brief and the latest approved cut
 
@@ -27,8 +27,8 @@ Read [the editing playbook](references/editing-playbook.md) when planning a new 
 - Keep social cuts brisk. Type the hook, thesis, jokes, and emotional landings; paste or Tab in support such as quotations, long article titles, dates, and lists. Reclaim repeated setup, empty transitions, and surplus holds before cutting necessary context. Let the material determine the runtime within the brief; do not pad an approximate target.
 - Make emphasis mean something. Bold the claim, underline the distinction, italicize the aside, enlarge the payoff. Important paragraphs deserve space and a deliberate editing sequence.
 - Use occasional plausible mistakes and revisions. A typo must visibly resolve; a line-break decision should visibly change the layout. If the joke depends on capitalization, replace the characters, not only their weight.
-- Keep the document present when exploring references. Show real pages, books, portraits, and illustrations in browser-like panels or a split composition. Establish the source, then frame its relevant detail large enough to read or recognize on a phone without squinting. Let the cursor, scroll, or source image move while the text continues.
-- Batch timeline entries rather than laboriously typing six similar titles. A persistent date rail and a traveling marker can carry chronology. Give each full title enough accumulated reading time; distinguish an image-recognition beat from text the viewer must read.
+- Give source evidence enough room to make sense. Use real pages, crops, split views, or clearly labeled full-screen transcripts according to the material. Preserve who is speaking, the decision or claim, and why it matters; an accurate fragment can still lose the argument. Small sender headshots can clarify identity without narrowing the quote. Follow the playbook’s source-excerpt guidance when choosing context, portraits, and reveal order.
+- Batch timeline entries rather than laboriously typing six similar titles. A persistent date rail and a traveling marker can connect related documents while the active excerpt changes. Each stop should explain an idea or development, not just show a date. Give each full title enough accumulated reading time; distinguish an image-recognition beat from text the viewer must read.
 - Protect the ending's context before trimming to runtime. Resolve the argument and explain what is recommended and why it merits a click before the rating or CTA. Retain any series explanation the viewer needs; a slogan cannot replace missing reasoning. Reveal ratings rhythmically, then keep the complete result readable as the ending continues.
 
 When requested, add one small, relevant visual experiment. It should earn its place through the idea, not interrupt a strong paragraph simply to be novel.
@@ -60,7 +60,7 @@ After any timing change, regenerate sound from the final event file and check it
 
 For a substantive new film, independent design and editorial/socials reviews can help. Give them different questions: hierarchy, spacing, and transitions versus hook, comprehension, recommendation, and ending. Give a small-change mandate when the cut is already approved. Apply concrete improvements rather than every suggestion.
 
-Before final export, inspect representative frames and motion at the hook, densest paragraph, main thesis, timeline, editing joke, scores, and ending. Check each requested aspect ratio independently at phone viewing size and normal playback speed. Allow for italic overhang, larger type, paste badges, browser docks, and camera movement. Content the viewer needs must be legible without pausing, zooming, or squinting; being inside the frame is not sufficient.
+Before final export, inspect representative frames and motion at the hook, densest paragraph, main thesis, timeline, editing joke, scores, and ending. Check each requested aspect ratio independently at phone viewing size and normal playback speed. Allow for italic overhang, larger type, paste badges, browser docks, and camera movement. Content the viewer needs must be legible without pausing, zooming, or squinting; being inside the frame is not sufficient. Also check comprehension: could a first-time viewer explain what the person believed or decided, and why this excerpt was chosen?
 
 Listen to the densest typing and the editing gestures. Check the exported MP4, not only preview frames: duration, dimensions, final text, audio sync, clipping, and complete decode. Runtime targets and reading holds are editorial decisions; preserve comprehension rather than forcing a fixed word count or a universal two-second threshold.
 
