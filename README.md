@@ -1,4 +1,4 @@
-# Typewritten Video
+# Kurate Videos
 
 A Codex skill for turning essays into videos that feel like a live word-editor session: typing, selecting, revising, formatting, and exploring references, with synchronized keyboard sound.
 
@@ -14,7 +14,7 @@ Include your source text or document, approximate runtime, intended platforms an
 
 For example:
 
-> Read SKILL.md and use Typewritten Video to make a roughly 90-second film from this essay. You may shorten it while preserving the argument and ending. Export a square version, keep the typing prominent, and show readable browser cutaways. Use bold, italics, underlining, and a few plausible corrections where they help the writing land.
+> Read SKILL.md and use Kurate Videos to make a roughly 90-second film from this essay. You may shorten it while preserving the argument and ending. Export a square version, keep the typing prominent, and show readable browser cutaways. Use bold, italics, underlining, and a few plausible corrections where they help the writing land.
 
 ## What's included
 
