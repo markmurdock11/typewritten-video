@@ -6,9 +6,9 @@ Use this for creative planning and revision. It records the decisions that made 
 
 The established visual baseline is a clean white page, neutral editor chrome, readable Arial-like body text, and a few strong accent colors. Do not gradually turn the page yellow. Source-specific typography can identify a publication, and deliberate font changes can be part of the performance. Match the actual source font when required; a substitute changes wrapping and is not an exact match.
 
-The keyboard is prominent. Browser panels keep the writing visible. Bold, underline, italics, changed line breaks, and corrected typos are the recurring motion language.
+The keyboard is prominent during writing. Browser panels can keep the essay visible; a clean full-screen transcript can give important evidence the space it needs. Bold, underline, italics, changed line breaks, and corrected typos are the recurring motion language.
 
-Document continuity is part of this style. A completed paragraph remains above the next thought as writing continues; scene boundaries alone do not create fresh pages. Keep source panels independent of that document: they enter, change, and withdraw beside the same accumulated essay. Sliding one isolated paragraph away before revealing another gives a different, page-by-page feel even when both have editor chrome.
+Document continuity is part of this style. A completed paragraph remains above the next thought as writing continues; scene boundaries alone do not create fresh pages. Keep source views independent of that document: they enter, change, and withdraw beside or over the same accumulated essay. Sliding one isolated paragraph away before revealing another gives a different, page-by-page feel even when both have editor chrome.
 
 Runtime, font, palette, soundtrack, degree of abridgment, exact wording, punctuation policy, score categories, and CTA remain brief-specific. A successful 90-second cut is not a reason to force every essay into 90 seconds. The no-em-dash instruction and all six dated articles were requirements of one approved episode; preserve them when continuing that episode, not automatically in every new source.
 
@@ -40,7 +40,7 @@ Budget reading time across the whole reveal. A line already read during typing o
 
 **Supporting material.** Date → Tab → complete-title paste is useful for timelines. A quotation can appear with one paste. These actions need visible feedback and matching sound, but not an elaborate context menu each time. Pasted text still needs reading time; previously introduced lines can remain above the next entry while a related image changes below. Introduce a recommendation group once, then flow between its entries in the same document rather than repeating the heading and setup for each source.
 
-**Timeline.** Keep a consistent chronology and move one marker between dates. Establish the source, settle on its illustration quickly, and vary the movement modestly. A small approach suits a drawing; text-heavy figures need gentler treatment. Preserve axes, relevant labels, captions, and source meaning. Do not interpret evenly spaced markers as a true proportional time scale unless they are one.
+**Timeline.** Use chronology when it explains a changing idea, strategy, career, or body of work. Keep a persistent date rail and move one marker between stops while one large source excerpt changes above or beside it. Each stop needs a brief explanation of what changed or why it matters. Reserve a quiet area for the rail; do not shrink the quote to accommodate it. Distinguish separate documents from one conversation, and do not imply causality from ordering alone. Preserve source labels and axes; evenly spaced chronological stops are not a proportional time scale.
 
 **Editing jokes.** Make the actual action carry the joke. A capitalization sequence must change case. A backspace sequence must remove the letters the viewer just saw. A font decision should be a real selection and style change. Do not leave accidental misspellings in the final text.
 
@@ -48,17 +48,31 @@ Budget reading time across the whole reveal. A line already read during typing o
 
 **Ending.** Protect the closing context before trimming to runtime. Retain enough wording to explain what is recommended, why it matters, and how the final thought connects to the essay. A rating, URL, or CTA cannot supply missing reasoning. For a Kurate launch, make sure a newcomer understands the recommendation premise somewhere in the film; a short tagline alone may not explain it. Preserve the substantive conclusion before condensing the longer About boilerplate. If a bridge is necessary, use authorized connective copy and record it as new writing. Recover time from earlier repetition or idle holds before sacrificing the ending's meaning.
 
-## Source exploration
+## Source exploration and excerpts
 
-Use authentic public or user-provided material: page headers, dates, publication typography, art, figures, book covers, portraits, and relevant coverage. Record where each asset came from. If an illustration is unavailable, a real public header is a better fallback than pretending to have captured the missing page.
+Use authentic public or user-provided material and record its provenance. Establish the real page or artifact, then choose the view that best communicates its evidence: a crop, a browser panel, a split composition, or a clearly labeled reflowed transcript. A long thumbnail hold is not a useful close-up. Full-screen transcripts are appropriate when the source needs the space; keep the accumulating essay intact off-screen and return to it. Do not force simultaneous typing, browser chrome, or sound into a reading hold.
 
-Show enough browser context to make the transition legible, with compact chrome that leaves room for the evidence. Establish the real page or artifact briefly, then crop or scroll to the specific passage, reply, face, or figure that matters. For a dense email or article, show its relevant excerpt large enough to read; keeping the entire document fitted in a small panel usually defeats that purpose. A long thumbnail hold is not a substitute for a useful close-up.
+Do not fabricate page copy or imply an unverified official status. If an illustration is unavailable, use an authentic available header or another relevant source view rather than pretending to have captured it. Preserve qualifiers, chart axes, and labels that affect meaning; required words and identifying details must remain readable in each aspect ratio.
 
-Choose what the viewer should notice before placing the asset. Required words, chart labels, and identifying details must read comfortably at phone size without zooming or pausing. Background detail can remain secondary, but do not label the meaningful evidence as mere image recognition to excuse tiny text. Enlarge the panel, reduce chrome, shorten the visible excerpt, or reframe it for each aspect ratio. Square and portrait may need different crops.
+### Preserve the argument
 
-Do not fabricate page copy, imply an unverified official status, or strip necessary context from a chart or quotation. A close-up must preserve attribution and any qualifiers that change the meaning. When enlarging a verified excerpt as live text, clearly distinguish the excerpt from the captured page and keep its wording exact.
+Before choosing a punchy line, identify the speaker, recipient when known, date, decision or tension, and what the viewer should learn. Retain enough of the proposition and its cause or consequence to support the recommendation. A vague “buying time” fragment needs to establish what is being bought and what the time enables. A forecast needs the thesis or mechanism, not only its dramatic conclusion.
 
-Keep the typing alive somewhere during most cutaways. Use a full-screen interruption only when it earns that lost document space.
+Put a short editorial setup above the quotation in a visibly different style. Keep it outside the quoted message and record it as new contextual copy. Verify authorship, routing, and each message’s date: a forward is not necessarily the forwarder’s own statement, a participant tag does not establish a recipient, and a thread’s opening date may not be the selected reply’s date. Label separate emails and meaningful omissions. Leave unknown recipients unspecified. Preserve quoted wording; perform playful typos in the authored essay, not in source evidence.
+
+### Make transcripts readable
+
+A useful transcript treatment is a white background, bold colored sender names, large black body text, restrained emphasis, and generous gaps. Keep recipient, role, and date labels concise but legible. Use color to distinguish actual speakers within an exchange, not to invent a back-and-forth in a one-sided email. Remove browser bars, borders, page counts, and repeated metadata when they compete with the evidence. Identify reflowed quotations as transcript excerpts so they are not mistaken for original screenshot pixels.
+
+Keep a short question and reply visible together when their relationship carries the point. For longer passages, replace or advance the active excerpt before the accumulated text becomes crowded; preserve a compact identity or context cue across the transition. A multi-part argument can unfold across several readable beats. Neither “one quote per screen” nor “keep the whole thread visible” is a universal rule. Formatting should bring attention to the claim without moving words out of the reading area.
+
+### Use headshots for identity
+
+Small, sharp, source-credited portraits beside sender names help viewers track who is speaking. Favor a tight recognizable crop and preserve full-width message text below the identity row. A portrait is a recognition aid, not a reason to add a large photo column or reduce type. Do not fabricate a likeness or imply that an absent recipient replied. Check crops and name/face pairings at phone size; if an asset is weak or unavailable, a clear text label is sufficient.
+
+### Budget attention and time
+
+Inspect meaningful source text at roughly 360–430 pixels wide and normal playback speed in every requested ratio. Account for the combined work of reading setup, identifying people, understanding the quotation, and following a timeline. Geometry alone does not prove comprehension. If material is crowded, split the reveal, remove repeated labels, or enlarge the reading area before shrinking type or cutting essential context. Reclaim redundant setup and animation first; within the authorized runtime flexibility, give a fuller argument more reading time. There is no fixed seconds-per-card rule.
 
 ## A small experimental beat
 
@@ -75,6 +89,8 @@ That is a model of restraint, not a recurring heartbeat requirement. A later ess
 - Are dense sections moved by editing decisions rather than excessive typing speed?
 - Does every extended hold earn its time through reading or a meaningful landing, and can repetitive setup be removed instead of context?
 - Can the viewer understand the important source detail at phone size without squinting, pausing, or zooming?
+- Could a first-time viewer explain the speaker’s claim or decision and why this excerpt matters, without opening the source?
+- Do portraits, context labels, and timeline stops clarify relationships while leaving the quotation dominant?
 - Does the viewer have time to read after a reveal and before a scroll or dock covers it?
 - At section handoffs, does earlier writing remain part of the same document, with the camera following the new passage?
 - Does the ending still explain the recommendation and follow from the shortened argument?
